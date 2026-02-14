@@ -10,3 +10,5 @@
 9-firstdirdeletion: Deletes the directory my_first_directory from /tmp.
 10-back: Changes the working directory to the previous one using cd -.
 11-lists: Lists all files in the current directory and the parent of the working directory and the /boot directory in long format.
+12-file_type: Prints the type of the file named iamafile.
+13-symbolic_link: Create a symbolic link to /bin/ls, named __ls__.
